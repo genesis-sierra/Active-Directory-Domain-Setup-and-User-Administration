@@ -63,3 +63,35 @@ Verify the NetBIOS name is assgined to the correct name:
 <p align="center">
 Confirm DC-1 server passed all requirements to be promoted to a Domain Controller to begin installation:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 160759" src="https://github.com/user-attachments/assets/b136bf7f-45f3-497e-9a88-37e90b604a93" />
+
+<p align="center">
+Remote login into DC-1 as mydomain.com\labuser:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 161641" src="https://github.com/user-attachments/assets/be5589e0-5bb9-4331-bcd0-97aea31ea342" />
+
+<p align="center">
+Open up Active Directory Users and Computers:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 162146" src="https://github.com/user-attachments/assets/727404a5-bc76-4b95-81a4-7f3dda210269" />
+
+<p align="center">
+Now select mydomain.com and create a new Organization Unit by using the drop down menu:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 162328" src="https://github.com/user-attachments/assets/6e9c4532-83df-44ca-9f14-615548ff81c1" />
+
+<p align="center">
+Create an Organization Unit called _EMPLOYEES:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 162452" src="https://github.com/user-attachments/assets/71c6bbc6-da9b-4572-a0a2-f31415935e13" />
+
+<p align="center">
+Create an Organization Unit called _ADMINS:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 162539" src="https://github.com/user-attachments/assets/bbe83a41-b8bf-45a8-9571-df4db84d2cfc" />
+
+<p align="center">
+Inside the _ADMINS folder create a user named Genesis Sierra with the user logon name genesis_admin:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 162813" src="https://github.com/user-attachments/assets/b402e87f-eaba-4d2a-b20d-8a23aeeb822b" />
+
+<p align="center">
+Open up the properties of the user Genesis Sierra:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 163034" src="https://github.com/user-attachments/assets/538fee7c-99e6-4dc8-8e00-8d0224cf534e" />
+
+<p align="center">
+Add Genesis Sierra to the Domain Admins Security Group
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 163651" src="https://github.com/user-attachments/assets/936a46cb-86aa-4ad4-b357-6d9bb22f1394" />
