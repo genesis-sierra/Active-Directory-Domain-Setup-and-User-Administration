@@ -187,3 +187,15 @@ Go into account properties and click on Unlock account:
 <p align="center">
 Now you should be able to login to the user moxa.pogo normally with the correct password:
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 000908" src="https://github.com/user-attachments/assets/e1503458-cbdc-4752-9c64-e4a8ea9e7495" />
+
+<p align="center">
+Go back into the Active Directory Users and Computers as mydomain.com\genesis_admin and now disable the account moxa.pogo:
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 001224" src="https://github.com/user-attachments/assets/0ff7b322-f6ca-4f9e-988b-1c73f5abc2a4" />
+
+<p align="center">
+Try to launch Client-1 as mydomain\moxa.pogo again and witness the pop up error of the account being disabled:
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 001612" src="https://github.com/user-attachments/assets/69394c4f-cb8e-42fc-84e6-6ea95431a11c" />
+
+<p align="center">
+Now once again go back into DC-1 as mydomain.com\genesis_admin and re enable the account:
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 001710" src="https://github.com/user-attachments/assets/95674ac2-c705-4ad7-b608-8808766d18fb" />
