@@ -175,3 +175,15 @@ Verify that the Default Domain Policy was actullay applied to the windows server
 <p align="center">
 Attempt to connect to Client-1 as mydomain\moxa.pogo with an incorrect password repeatedly until the account lockout message appears:
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 000513" src="https://github.com/user-attachments/assets/7dcd70fd-fa12-49d1-b655-c223f27acf20" />
+
+<p align="center">
+Back in DC-1 as mydomain.com\genesis_admin locate the user moxa.pogo in Active Directory Users and Computers:
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 000641" src="https://github.com/user-attachments/assets/02273ba6-df49-47f8-a1c5-82e297cfcd93" />
+
+<p align="center">
+Go into account properties and click on Unlock account:
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 000820" src="https://github.com/user-attachments/assets/99442b90-c079-4a93-ab84-3ab36fbd630f" />
+
+<p align="center">
+Now you should be able to login to the user moxa.pogo normally with the correct password:
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 000908" src="https://github.com/user-attachments/assets/e1503458-cbdc-4752-9c64-e4a8ea9e7495" />
