@@ -7,9 +7,9 @@ Built and administered an Active Directory environment in Microsoft Azure by dep
 - <b>Domain Administration</b>
 - <b>User & Group Administration</b>
 
-<h2>Languages Used</h2>
+<h2>Program Used</h2>
 
-- <b>PowerShell</b>
+- <b>Command Prompt</b>
 
 <h2>Cloud Platform Used</h2>
 
