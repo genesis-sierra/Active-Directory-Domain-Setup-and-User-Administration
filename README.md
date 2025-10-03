@@ -124,6 +124,23 @@ Create one last Organization Unit and name it _CLIENTS:
 After usign Powershell to create users go ahead and select a random user this one being moxa.pogo:
 <img width="1919" height="1079" alt="Screenshot 2025-09-04 233336" src="https://github.com/user-attachments/assets/d4ac375a-197b-453c-84f4-707555167b58" />
 
+<p align="center">
 Log into DC-1 as the user mydomain.com\moxa.pogo:
 <img width="1919" height="1079" alt="Screenshot 2025-09-04 233527" src="https://github.com/user-attachments/assets/95f7c733-cb04-443e-966a-c6ecf45b276d" />
+
+<p align="center">
+Open up gpmc.msc on the run command to launch Group Policy Management:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 234106" src="https://github.com/user-attachments/assets/11aa9ede-7552-4868-90e0-80fae0e460d5" />
+
+<p align="center">
+Edit Default Domain Policy and it will open up the Group Policy Management Editor:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 234505" src="https://github.com/user-attachments/assets/f724432c-1660-4b8c-bc6d-cbae47ee7b0f" />
+
+<p align="center">
+Scroll down to Account Lockout Policy:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 234738" src="https://github.com/user-attachments/assets/4afd1a10-8955-4616-b58d-fcd8a7064aea" />
+
+<p align="center">
+Change the lockout duration to 30 minutes:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 234826" src="https://github.com/user-attachments/assets/c1728726-a1a5-49ff-a4d5-15dd3cff2d80" />
 
