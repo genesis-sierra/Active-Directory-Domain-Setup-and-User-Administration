@@ -37,3 +37,9 @@ Install Active Directory Domain Services on DC-1 by using Server Manager:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 155531" src="https://github.com/user-attachments/assets/e8d109fd-cdfb-4d5f-8bcc-15157dcf7600" />
 
 <p align="center">
+Confirm adding the roles and features for Active Directory Domain Services:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 155714" src="https://github.com/user-attachments/assets/6310681a-0101-43cf-bb6a-b7c7c1d660e0" />
+
+<p align="center">
+Confirmation screen before installion:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 155826" src="https://github.com/user-attachments/assets/f4226a24-3c17-4427-aa67-a410975971c3" />
