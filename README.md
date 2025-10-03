@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2025-09-04 235955" src="https://github.com/user-attachments/assets/7459df86-047d-465b-ad8f-4eca1dadfc06" /><h1>Active Directory: Domain Setup and User Administration</h1>
+<h1>Active Directory: Domain Setup and User Administration</h1>
 <h2>Description</h2>
 Built and administered an Active Directory environment in Microsoft Azure by deploying a new domain, joining client machines, configuring Remote Desktop access for domain users, and applying user administration tasks such as account lockout policies, enabling/disabling accounts, and monitoring authentication logs. This project highlights experience with domain administration, user account management, and security policy enforcement.
 
@@ -173,3 +173,5 @@ Verify that the Default Domain Policy was actullay applied to the windows server
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 000109" src="https://github.com/user-attachments/assets/5422ffcd-a867-452f-b541-e1b47f85d9ed" />
 
 <p align="center">
+Attempt to connect to Client-1 as mydomain\moxa.pogo with an incorrect password repeatedly until the account lockout message appears:
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 000513" src="https://github.com/user-attachments/assets/7dcd70fd-fa12-49d1-b655-c223f27acf20" />
