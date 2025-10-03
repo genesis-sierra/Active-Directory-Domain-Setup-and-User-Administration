@@ -49,11 +49,11 @@ Select the promote this server to a domain controller:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 160242" src="https://github.com/user-attachments/assets/0f1de596-2e4b-4317-bace-670af0cea2a9" />
 
 <p align="center">
-Create a new forest by specifying the domain name to mydomain.com
+Create a new forest by specifying the domain name to mydomain.com:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 160328" src="https://github.com/user-attachments/assets/b8fe77ca-f8dd-4dad-8fc2-431d5f30ae72" />
 
 <p align="center">
-Select Domain Name System (DNS) server and Global Catalog (GC) to ensure the Domain Controller can provide name resolution, handle logon requests, and support directory searches across the forest, then create a DSRM password for recovery purposes.
+Select Domain Name System (DNS) server and Global Catalog (GC) to ensure the Domain Controller can provide name resolution, handle logon requests, and support directory searches across the forest, then create a DSRM password for recovery purposes:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 160450" src="https://github.com/user-attachments/assets/f3e79f30-aea2-4fa2-8063-8e64aaa48769" />
 
 <p align="center">
@@ -93,5 +93,5 @@ Open up the properties of the user Genesis Sierra:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 163034" src="https://github.com/user-attachments/assets/538fee7c-99e6-4dc8-8e00-8d0224cf534e" />
 
 <p align="center">
-Add Genesis Sierra to the Domain Admins Security Group
+Add Genesis Sierra to the Domain Admins Security Group:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 163651" src="https://github.com/user-attachments/assets/936a46cb-86aa-4ad4-b357-6d9bb22f1394" />
