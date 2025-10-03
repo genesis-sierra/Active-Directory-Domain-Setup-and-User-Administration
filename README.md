@@ -120,3 +120,10 @@ Go back into DC-1 as mydomain.com\genesis_admin and open up Active Directory Use
 Create one last Organization Unit and name it _CLIENTS:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 170358" src="https://github.com/user-attachments/assets/f9540ec0-0089-4c3e-9b31-bf4b145d0a31" />
 
+<p align="center">
+After usign Powershell to create users go ahead and select a random user this one being moxa.pogo:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 233336" src="https://github.com/user-attachments/assets/d4ac375a-197b-453c-84f4-707555167b58" />
+
+Log into DC-1 as the user mydomain.com\moxa.pogo:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 233527" src="https://github.com/user-attachments/assets/95f7c733-cb04-443e-966a-c6ecf45b276d" />
+
