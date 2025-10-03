@@ -95,3 +95,12 @@ Open up the properties of the user Genesis Sierra:
 <p align="center">
 Add Genesis Sierra to the Domain Admins Security Group:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 163651" src="https://github.com/user-attachments/assets/936a46cb-86aa-4ad4-b357-6d9bb22f1394" />
+
+<p align="center">
+Log into DC-1 using the domain account mydomain.com\genesis_admin to gain administrative privileges:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 164006" src="https://github.com/user-attachments/assets/5f46b073-a07c-4478-bf3f-8bed05e2d9a2" />
+
+<p align="center">
+Open up settings storage and go to system properties:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 164538" src="https://github.com/user-attachments/assets/da1c55a3-647b-4aa6-884d-aea44f540bf6" />
+
