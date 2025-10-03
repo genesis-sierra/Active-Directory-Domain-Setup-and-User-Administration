@@ -144,3 +144,22 @@ Scroll down to Account Lockout Policy:
 Change the lockout duration to 30 minutes:
 <img width="1919" height="1079" alt="Screenshot 2025-09-04 234826" src="https://github.com/user-attachments/assets/c1728726-a1a5-49ff-a4d5-15dd3cff2d80" />
 
+<p align="center">
+Accept the suggested values that Windows is suggesting to related policies:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 234849" src="https://github.com/user-attachments/assets/39a1423f-674e-49b8-80cb-1118ca690a81" />
+
+<p align="center">
+Go into the settings of Default Domain Policy to verify the settings took into affect:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 235148" src="https://github.com/user-attachments/assets/7c213cab-9ea3-4b04-a95a-46afec69825a" />
+
+<p align="center">
+Launch virtual machine Client-1 as the admin mydomain.com\genesis_admin:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 235434" src="https://github.com/user-attachments/assets/cab12c9e-b690-44ca-838e-7314fa5157c2" />
+
+<p align="center">
+Once inside the virtual machine Client-1 open up the command prompt and input the command line gpupdate /force:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 235634" src="https://github.com/user-attachments/assets/7eb4d62c-51e6-4128-985e-04ca5abb5430" />
+
+<p align="center">
+Screen will now show that computer policy update was successful:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 235728" src="https://github.com/user-attachments/assets/8425e687-aff9-479a-ac99-3fed4e474551" />
