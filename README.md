@@ -97,7 +97,7 @@ Add Genesis Sierra to the Domain Admins Security Group:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 163651" src="https://github.com/user-attachments/assets/936a46cb-86aa-4ad4-b357-6d9bb22f1394" />
 
 <p align="center">
-Log into DC-1 using the domain account mydomain.com\genesis_admin to gain administrative privileges:
+Log into Client-1 using the domain account mydomain.com\genesis_admin to gain administrative privileges:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 164006" src="https://github.com/user-attachments/assets/5f46b073-a07c-4478-bf3f-8bed05e2d9a2" />
 
 <p align="center">
@@ -111,4 +111,12 @@ Change the computers domain to mydomain.com:
 <p align="center">
 Confirm the changes by inputting the administrative account mydomain.com\genesis_admin:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 164842" src="https://github.com/user-attachments/assets/57c55bd0-d39a-42c9-a1d3-e0ab39c22156" />
+
+<p align="center">
+Go back into DC-1 as mydomain.com\genesis_admin and open up Active Directory Users and Computers:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 170214" src="https://github.com/user-attachments/assets/6c23fa9f-690c-4b1e-b444-252bf1bb79e6" />
+
+<p align="center">
+Create one last Organization Unit and name it _CLIENTS:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 170358" src="https://github.com/user-attachments/assets/f9540ec0-0089-4c3e-9b31-bf4b145d0a31" />
 
