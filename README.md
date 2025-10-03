@@ -1,4 +1,4 @@
-<h1>Active Directory: Domain Setup and User Administration</h1>
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 235955" src="https://github.com/user-attachments/assets/7459df86-047d-465b-ad8f-4eca1dadfc06" /><h1>Active Directory: Domain Setup and User Administration</h1>
 <h2>Description</h2>
 Built and administered an Active Directory environment in Microsoft Azure by deploying a new domain, joining client machines, configuring Remote Desktop access for domain users, and applying user administration tasks such as account lockout policies, enabling/disabling accounts, and monitoring authentication logs. This project highlights experience with domain administration, user account management, and security policy enforcement.
 
@@ -157,9 +157,19 @@ Launch virtual machine Client-1 as the admin mydomain.com\genesis_admin:
 <img width="1919" height="1079" alt="Screenshot 2025-09-04 235434" src="https://github.com/user-attachments/assets/cab12c9e-b690-44ca-838e-7314fa5157c2" />
 
 <p align="center">
-Once inside the virtual machine Client-1 open up the command prompt and input the command line gpupdate /force:
+Once inside the virtual machine Client-1 open up the Command Prompt and input the command line gpupdate /force:
 <img width="1919" height="1079" alt="Screenshot 2025-09-04 235634" src="https://github.com/user-attachments/assets/7eb4d62c-51e6-4128-985e-04ca5abb5430" />
 
 <p align="center">
-Screen will now show that computer policy update was successful:
+Screen will now show the computer policy update was successful:
 <img width="1919" height="1079" alt="Screenshot 2025-09-04 235728" src="https://github.com/user-attachments/assets/8425e687-aff9-479a-ac99-3fed4e474551" />
+
+<p align="center">
+Launch the Command Prompt as Administrator and run the command gpresult /r:
+<img width="1919" height="1079" alt="Screenshot 2025-09-04 235955" src="https://github.com/user-attachments/assets/57b5fd91-1e40-41f7-b8bb-33ca298f3c59" />
+
+<p align="center">
+Verify that the Default Domain Policy was actullay applied to the windows server machine (DC-1):
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 000109" src="https://github.com/user-attachments/assets/5422ffcd-a867-452f-b541-e1b47f85d9ed" />
+
+<p align="center">
