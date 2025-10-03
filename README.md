@@ -26,3 +26,14 @@ Built and administered an Active Directory environment in Microsoft Azure by dep
 - <b>Virtual Machine (Client-1: Windows 10)</b>
 
 <h2>Project walk-through:</h2>
+
+<p align="center">
+Open up Server Manager and select DC-1 as the designated server for this project:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 155531" src="https://github.com/user-attachments/assets/dc81e06a-e1b4-4ede-a9a1-a54294e1227b" />
+
+
+<p align="center">
+Install Active Directory Domain Services on DC-1 by using Server Manager:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 155531" src="https://github.com/user-attachments/assets/e8d109fd-cdfb-4d5f-8bcc-15157dcf7600" />
+
+<p align="center">
