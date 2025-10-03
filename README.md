@@ -104,3 +104,11 @@ Log into DC-1 using the domain account mydomain.com\genesis_admin to gain admini
 Open up settings storage and go to system properties:
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 164538" src="https://github.com/user-attachments/assets/da1c55a3-647b-4aa6-884d-aea44f540bf6" />
 
+<p align="center">
+Change the computers domain to mydomain.com:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 164648" src="https://github.com/user-attachments/assets/9bf5c274-b76e-4bd6-9928-dd450d7cf1d4" />
+
+<p align="center">
+Confirm the changes by inputting the administrative account mydomain.com\genesis_admin:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 164842" src="https://github.com/user-attachments/assets/57c55bd0-d39a-42c9-a1d3-e0ab39c22156" />
+
