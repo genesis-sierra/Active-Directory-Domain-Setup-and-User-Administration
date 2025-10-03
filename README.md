@@ -55,3 +55,11 @@ Create a new forest by specifying the domain name to mydomain.com
 <p align="center">
 Select Domain Name System (DNS) server and Global Catalog (GC) to ensure the Domain Controller can provide name resolution, handle logon requests, and support directory searches across the forest, then create a DSRM password for recovery purposes.
 <img width="1919" height="1079" alt="Screenshot 2025-09-03 160450" src="https://github.com/user-attachments/assets/f3e79f30-aea2-4fa2-8063-8e64aaa48769" />
+
+<p align="center">
+Verify the NetBIOS name is assgined to the correct name:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 160532" src="https://github.com/user-attachments/assets/b6d18a06-a321-4024-8ead-d33833d1d4fc" />
+
+<p align="center">
+Confirm DC-1 server passed all requirements to be promoted to a Domain Controller to begin installation:
+<img width="1919" height="1079" alt="Screenshot 2025-09-03 160759" src="https://github.com/user-attachments/assets/b136bf7f-45f3-497e-9a88-37e90b604a93" />
