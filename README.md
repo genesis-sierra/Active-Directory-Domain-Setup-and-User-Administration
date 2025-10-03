@@ -6,6 +6,7 @@ Built and administered an Active Directory environment in Microsoft Azure by dep
 
 - <b>Domain Administration</b>
 - <b>User & Group Administration</b>
+- <b>Security Log Monitoring</b>
 
 <h2>Program Used</h2>
 
